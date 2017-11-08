@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  power = 1;
+  power_level = 1;
+
+  title = 'Power Levels';
+
 }
